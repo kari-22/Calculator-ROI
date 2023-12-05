@@ -151,6 +151,8 @@ input,select{
     background: #e4c46e;
     border: none;
     border-radius: 8px;
+    font-size: 14px;
+    padding-left: 12px;
 }
 button{
     max-width: 200px;
